@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    background: #f8f9fa;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header .nav-link {
+    font-weight: bold;
+}
+
+header .nav-link:hover {
+    color: #ffc107;
+}
+
+footer {
+    background: #333;
+}
+
+footer p {
+    margin: 0;
+}
